@@ -1,5 +1,5 @@
 # Climate Action Hackathon 2025 - Urban Heat & Flood Resilience
-## Kerstan Feroz Pabalan Ocaviano 2410-2090 BCM
+## Kerstan Feroz Pabalan Octaviano 2410-2090 BCM
 
 My Website Address: https://kerstannn.github.io/Website_SDG4_Kerstan/
 My GitHub Profile: https://github.com/Kerstannn
